@@ -44,7 +44,7 @@ APP特点：
 
 公众号二维码：
 
-![公众号二维码](https://thumbnail0.baidupcs.com/thumbnail/a171144189a99ce43885e9735d63b576?fid=1215413511-250528-508086619457085&time=1542351600&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-xHr8GDzsGC0GOVyy6s8g7fbuwUA%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=7413305775998695158&dp-callid=0&size=c500_u500&quality=100&vuk=-&ft=video)
+![公众号二维码](https://thumbnail0.baidupcs.com/thumbnail/a171144189a99ce43885e9735d63b576?fid=1215413511-250528-508086619457085&time=1543831200&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-Q3y6x1YS%2BLB2r22%2Fz5%2B0CU4yFIc%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=7810853031491270831&dp-callid=0&size=c430_u430&quality=100&vuk=-&ft=video)
 
 我会在公众号中发表关于这个APP的一系列技术文章，希望能帮到有需要的人。
 
@@ -52,6 +52,8 @@ APP特点：
 
 微信号二维码：
 
-![self](https://thumbnail0.baidupcs.com/thumbnail/a5cbbb5e2149b2a58f7b9b195bd87ce1?fid=1215413511-250528-383996165912285&time=1542351600&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-wXbPLMmmbRzEzsh9wIEes19i6SA%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=7413348677602935155&dp-callid=0&size=c500_u500&quality=100&vuk=-&ft=video)
+![self](https://thumbnail0.baidupcs.com/thumbnail/a5cbbb5e2149b2a58f7b9b195bd87ce1?fid=1215413511-250528-383996165912285&time=1543831200&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-qDDL2rgp60UPH8i6FYufl9matLo%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=7810887928834056899&dp-callid=0&size=c430_u430&quality=100&vuk=-&ft=video)
+
+
 
 
