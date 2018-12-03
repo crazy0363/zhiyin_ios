@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="14315.18" systemVersion="17G65" minimumToolsVersion="Automatic" sourceLanguage="Objective-C" userDefinedModelVersionIdentifier="">
+    <entity name="BlacklistM" representedClassName="BlacklistM" syncable="YES" codeGenerationType="class">
+        <attribute name="nickname" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="userid" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="MsglasttimeM" representedClassName="MsglasttimeM" syncable="YES" codeGenerationType="class">
+        <attribute name="msglasttime" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="SupportM" representedClassName="SupportM" syncable="YES" codeGenerationType="class">
+        <attribute name="audioid" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="MsglasttimeM" positionX="-45" positionY="9" width="128" height="60"/>
+        <element name="SupportM" positionX="-45" positionY="0" width="128" height="60"/>
+        <element name="BlacklistM" positionX="-45" positionY="9" width="128" height="75"/>
+    </elements>
+</model>
