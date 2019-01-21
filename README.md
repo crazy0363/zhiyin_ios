@@ -8,7 +8,7 @@ APP特点：
 - 没有文字，只有声音，录了就发，简单快捷！
 - 可以伪装声音，发往“广场”或“今日话题”，也可以发给让您有共鸣的人。
 - 当然，维护平台的健康与有价值，是这个APP的使命--后台可控制内容分发。
-- 这个项目开箱即用，连带服务器也是支持的。
+- **这个项目开箱即用，连带服务器也是支持的。**
 
 这是“知音”的演示视频：
 <https://zyapi.alry.cn/about.html>
@@ -43,17 +43,11 @@ APP特点：
 
 # （三）关于作者
 
-公众号二维码：
-
-![公众号二维码](https://pan.baidu.com/s/1DWNdN0haieBQqJU5dqSXZQ)
+微信公众号，搜索“广州小程”。
 
 我会在公众号中发表关于这个APP的一系列技术文章，希望能帮到有需要的人。
 
 微信号：freeself0363
-
-微信号二维码：
-
-![self](https://thumbnail0.baidupcs.com/thumbnail/a5cbbb5e2149b2a58f7b9b195bd87ce1?fid=1215413511-250528-383996165912285&time=1543831200&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-qDDL2rgp60UPH8i6FYufl9matLo%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=7810887928834056899&dp-callid=0&size=c430_u430&quality=100&vuk=-&ft=video)
 
 
 
