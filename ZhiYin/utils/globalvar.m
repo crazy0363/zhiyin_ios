@@ -23,7 +23,9 @@
         shareglobalvar.osver = [UIDevice currentDevice].systemVersion;
         shareglobalvar.appname = @"zhiyi";
         shareglobalvar.appver = @"1.0.0";
-        shareglobalvar.signkey = @"这个key是错误的，请向作者索要，或者接入您自己的服务器来使用，因为框架都是可行的";
+        NSString* tmp = [NSString stringWithFormat:@"%@_%@_%@_%@_%@_666666", shareglobalvar.ostype,
+                         shareglobalvar.osver, shareglobalvar.appname, shareglobalvar.appver, shareglobalvar.clientID];
+        shareglobalvar.signkey = [cryptotool md5EncodeFromStr:tmp];
         
         // 320 * 480 --iphone4s
         // 320 * 568 --iphoneSE
