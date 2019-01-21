@@ -7,7 +7,8 @@ APP特点：
 - 不需要加人，不需要加群，点击APP就能寻找共鸣！
 - 没有文字，只有声音，录了就发，简单快捷！
 - 可以伪装声音，发往“广场”或“今日话题”，也可以发给让您有共鸣的人。
-- 当然，维护平台的健康与有价值，是这个APP的使命。
+- 当然，维护平台的健康与有价值，是这个APP的使命--后台可控制内容分发。
+- 这个项目开箱即用，连带服务器也是支持的。
 
 这是“知音”的演示视频：
 <https://zyapi.alry.cn/about.html>
@@ -15,7 +16,7 @@ APP特点：
 目前，iPhone平台已经上架AppStore，这个是APP的地址：
 <https://itunes.apple.com/cn/app/天涯何处觅知音/id1439297254?mt=8&from=groupmessage&isappinstalled=0>
 
-也可以在AppStore中搜索“觅知音”或“天涯何处”，下载与安装。
+也可以在AppStore中搜索“天涯何处”，下载安装。
 
 # （二）源码介绍
 
@@ -44,7 +45,7 @@ APP特点：
 
 公众号二维码：
 
-![公众号二维码](https://thumbnail0.baidupcs.com/thumbnail/a171144189a99ce43885e9735d63b576?fid=1215413511-250528-508086619457085&time=1543831200&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-Q3y6x1YS%2BLB2r22%2Fz5%2B0CU4yFIc%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=7810853031491270831&dp-callid=0&size=c430_u430&quality=100&vuk=-&ft=video)
+![公众号二维码](https://pan.baidu.com/s/1DWNdN0haieBQqJU5dqSXZQ)
 
 我会在公众号中发表关于这个APP的一系列技术文章，希望能帮到有需要的人。
 
